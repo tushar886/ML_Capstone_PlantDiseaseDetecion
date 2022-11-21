@@ -1,20 +1,9 @@
 # Plant disease detection
 
-# P.s : FOR PROMISING RESULTs ON IMAGE BASED CLASSIFICATION USE DEEP LEARNING INSTEAD OF NORMAL MACHINE LEARNING ALGORITHMS.
 
-Plant Disease Detection is one of the mind boggling issue that exits when we talk about using Technology in Agriculture.Although researches has been done to detect weather a plant is healthy or diseased using Deep Learning and with the help of Neural Network, new techniquies are still being discovered.
+Plant Disease Detection is one of the issue that exits when we talk about using Technology in Agriculture.Although researches has been done to detect weather a plant is healthy or diseased using Deep Learning and with the help of Neural Network, new techniquies are still being discovered.
 
-Here is my approach for Detecting weather a plant leaf is healthy or unhealthy by utilising classical Machine Learning Algorithm , Pre-processing the data using Image Processing.
-
-
-## ABOUT THE DATASET
-
-The dataset used for this project has been taken from Plant-Village- Dataset which can be found here https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color.
-
-The data used for this project is extracted from the folder named “color” which is situated in the folder named “raw” in the Github Repository. The Data fed for the modeling is of Apple Leaves.
-For training purpose the Dataset comprises of 2 folders named Diseased and Healthy which contains images of leaves with respective labels.
-The Diseased Folder contains diseased/unhealthy, affected by Apple Scab, Black Rot or Cedar Apple Rust.
-The Healthy Folder consists of Green and healthy images.
+Here is our approach for Detecting weather a plant leaf is healthy or unhealthy by utilising classical Machine Learning Algorithm , Pre-processing the data using Image Processing.
 
 
 ## PROPERTIES OF IMAGES
@@ -107,7 +96,10 @@ Image Classification : Contains Training Dataset and the .ipynb for the Plant Di
 
 Testing Notebook : Contains Detailed Specification of Functions applied in the leaf images.
 
+## Contributors:
+Tushar Srivastava (tushar886@gmail.com)
 
+Sanjay Kumar (er.sanjay.2011@gmail.com)
 
 
 
